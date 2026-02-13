@@ -32,6 +32,7 @@ With Gradle, the command is as follows:
 ```bash
 ./gradlew bootRun
 ```
+demonstrate
 
 You can then access the Petclinic at <http://localhost:8080/>.
 
